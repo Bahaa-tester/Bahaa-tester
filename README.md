@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bahaa-tester
+- 👋 Hi, I’m @Bahaa-Elhamouly
 - 👀 I’m interested in software testing 
 - 🌱 I’m currently learning Automation software testing 
 - 💞️ I’m looking to collaborate on manual software testing projects
